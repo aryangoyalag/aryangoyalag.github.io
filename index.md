@@ -29,7 +29,7 @@
 ### 3. CSI Coordinator
 
 ## Projects :
-  #### [Project 1 : Fifa_position](https://github.com/aryangoyalag/Fifa_position) 
+#### [Project 1 : Fifa_position](https://github.com/aryangoyalag/Fifa_position) 
 
 - The model that predicts the best position for your custom fifa 20 character based on the player attributes.
 
