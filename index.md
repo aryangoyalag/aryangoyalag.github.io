@@ -1,5 +1,16 @@
-# Aryan Goyal
+# Aryan Goyal 
+<img src="/images/dp.jpeg" width="150" height="200"/>
+
 ### Developer Portfolio
+<a href="https://www.linkedin.com/in/aryan-goyal-4961981bb/">
+  <img src="/images/download.png" width="50" height="50">
+</a>
+<a href="https://github.com/aryangoyalag">
+  <img src="/images/download (1).png" width="50" height="50">
+</a>
+<a href="https://www.kaggle.com/aryangoyal">
+  <img src="/images/download (2).png" width="50" height="50">
+</a>
 
 ## Education :
 - Birla Institute of Technology, Mesra, Jaipur Campus
