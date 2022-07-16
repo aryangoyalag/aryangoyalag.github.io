@@ -19,14 +19,17 @@
 - (BSc Data Science and Programming) - Indian Institute of Technology Madras Online Degree
 
 ## Experience :
-### 1. Customer Research & Marketing Intern
+### 1. Club Lead 2022-23 term
+#### GDSC Birla Institute of Technology, Mesra, Jaipur Campus
+
+### 2. Customer Research & Marketing Intern
 ####   AGE 19 Enterprise
 ####  May 2021 - Aug 2021 (4 months)
 
-### 2. AI/ML Lead 
+### 2. AI/ML Lead 2021-22 term
 #### GDSC Birla Institute of Technology, Mesra, Jaipur Campus
 
-### 3. CSI Coordinator
+### 3. Computer Society of India - Coordinator
 
 ## Projects :
 #### [Project 1 : Fifa_position](https://github.com/aryangoyalag/Fifa_position) 
