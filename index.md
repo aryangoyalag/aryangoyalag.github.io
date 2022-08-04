@@ -26,12 +26,16 @@
 ####   AGE 19 Enterprise
 ####  May 2021 - Aug 2021 (4 months)
 
-### 2. AI/ML Lead 2021-22 term
+### 3. AI/ML Lead 2021-22 term
 #### GDSC Birla Institute of Technology, Mesra, Jaipur Campus
 
-### 3. Computer Society of India - Coordinator
+### 4. Computer Society of India - Coordinator
 
 ## Projects :
+#### [Project 2 : Credit Card Default Prediction](https://github.com/aryangoyalag/cred) 
+
+- The model predicts whether the customer will default the next credit card payment or not by taking last 6 months transaction data into account.
+- [Web application link](https://cc-defaulter-checker.vercel.app/)
 #### [Project 1 : Fifa_position](https://github.com/aryangoyalag/Fifa_position) 
 
 - The model that predicts the best position for your custom fifa 20 character based on the player attributes.
