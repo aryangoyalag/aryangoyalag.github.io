@@ -1,6 +1,6 @@
 # Aryan Goyal 
 
-<img src="/images/dp.jpeg" height="200" width="150" >
+<img src="/images/DP_new.jpeg" height="200" width="200" >
 
 
 ### Student Portfolio
