@@ -13,6 +13,9 @@
 <a href="https://www.kaggle.com/aryangoyal">
   <img src="/images/download (2).png" width="50" height="50">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/user2176B/">
+  <img src="/images/leetcode.png" width="50" height="50">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Education :
 - (BTech in CSE) - Birla Institute of Technology, Mesra, Jaipur Campus
@@ -50,3 +53,8 @@
 #### [Project 2 : To Do List](https://github.com/aryangoyalag/todo) 
 
 - Developed a highly efficient API using FastAPI framework, allowing for seamless integration with MongoDB server and delivering response times 20% faster than industry average.
+
+#### [Project 3 : September Effect Analysis](https://public.tableau.com/views/SepetemberEffectAnalysisft_TCS/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+- Developed a comprehensive Tableau dashboard to analyze TCS stock data and identified a decrease in returns 
+during September compared to other months.
