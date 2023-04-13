@@ -1,6 +1,6 @@
 # Aryan Goyal 
 
-<img src="/images/DP_new.jpeg" height="200" width="200" >
+<img src="/images/dp new.png" height="200" width="200" >
 
 
 ### Student Portfolio
@@ -15,37 +15,38 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Education :
-- (BTech CSE) - Birla Institute of Technology, Mesra, Jaipur Campus
-- (BSc Data Science and Programming) - Indian Institute of Technology Madras Online Degree
+- (BTech in CSE) - Birla Institute of Technology, Mesra, Jaipur Campus
+- 8.47 CGPA (till 5th sem)
+- (BS in Data Science and Programming) - Indian Institute of Technology Madras Online Degree
+- 7.0 CGPA
 
-## Experience :
-### 1. Club Lead 2022-23 term
-#### GDSC Birla Institute of Technology, Mesra, Jaipur Campus
-
-### 2. Customer Research & Marketing Intern
+## Work Experience :
+###  Customer Research & Marketing Intern
 ####   AGE 19 Enterprise
-####  May 2021 - Aug 2021 (4 months)
+####  May 2021 - August 2021 (4 months)
 
-### 3. AI/ML Lead 2021-22 term
-#### GDSC Birla Institute of Technology, Mesra, Jaipur Campus
+## Leadership Experience :
 
-### 4. Computer Society of India - Coordinator
+### 1. Club Lead 2022-23 term
+#### GDSC - Birla Institute of Technology, Mesra, Jaipur Campus
+#### August 2022 - April 2023
+
+### 2. Vice President
+#### Technical Committee - Birla Institute of Technology, Mesra, Jaipur Campus
+#### November 2022 - April 2023
+
+### 3. Lead Organiser
+#### GDSC WOW Jaipur
+#### December 2022 - March 2023
+
+
 
 ## Projects :
 #### [Project 1 : Credit Card Default Prediction](https://github.com/aryangoyalag/cred) 
 
-- The model predicts whether the customer will default the next credit card payment or not by taking last 6 months transaction data into account.
+- Developed a credit card default prediction model using machine learning algorithms that achieved an accuracy rate of 85% by analyzing transaction data from the last 6 months for over 10,000 customers.
 - [Web application link](https://cc-defaulter-checker.vercel.app/)
-#### [Project 2 : Fifa_position](https://github.com/aryangoyalag/Fifa_position) 
 
-- The model that predicts the best position for your custom fifa 20 character based on the player attributes.
+#### [Project 2 : To Do List](https://github.com/aryangoyalag/todo) 
 
-#### [Project 3 : find-the-district-with-the-given-attribute](https://github.com/aryangoyalag/find-the-district-with-the-given-attributes)
-
-- When searching for a house in a new city you generally look for various features in their preferred house. This model uses the " Tbilisi Housing Challenge 2020 " housing dataset to predict the district name where you can find your preferred house
-
-#### [Project 4 : Titanic](https://github.com/aryangoyalag/titanic)
-
-- The model uses linear classification to predict whether the person on titanic survived or not.
-
-
+- Developed a highly efficient API using FastAPI framework, allowing for seamless integration with MongoDB server and delivering response times 20% faster than industry average.
