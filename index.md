@@ -2,7 +2,7 @@
 
 <img src="/images/dp new.png" height="200" width="200" >
 
-
+### [Resume](https://github.com/aryangoyalag/aryangoyalag.github.io/blob/main/Aryan%20Goyal.pdf)
 ### Student Portfolio
 <a href="https://www.linkedin.com/in/aryan-goyal-4961981bb/">
   <img src="/images/download.png" width="50" height="50">
