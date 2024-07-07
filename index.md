@@ -22,7 +22,7 @@
 - Backend Development - FastAPI, DJango, SQLALchemy, MongoDB, PostgreSQl
 - Git
 - Machine Learning - PyTorch , TensorFlow
-- 
+  
 ## Education :
 - (BTech in CSE) - Birla Institute of Technology, Mesra, Jaipur Campus
 - 2020 - 2024
